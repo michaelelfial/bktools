@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+
+console.log("-->bktools ver 0.0.1");
+var bktools = require("../index.js");
