@@ -4,7 +4,7 @@ var cmdline = require("./tinylib/cmdline.js");
 
 
 function main() {
-	//console.log(process.argv);
+	console.log("bktools ver 0.0.1");
 	var cl = new cmdline();
 	
 	console.log("option --x " + cl.option("x", null, "alpha"))
