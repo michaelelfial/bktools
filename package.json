@@ -2,10 +2,20 @@
   "name": "bktools",
   "version": "1.0.0",
   "description": "BindKraft misc CLI tools",
+  "keywords": [
+    "BindKraft",
+    "bktools",
+    "BindKraft project"
+  ],
+  "preferGlobal": true,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Michael Palazov",
-  "license": "MIT",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelelfial/bktools"
+  },
+  "license": "MIT"
 }
